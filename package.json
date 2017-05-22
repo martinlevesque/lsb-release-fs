@@ -1,0 +1,29 @@
+{
+  "name": "lsb-release-fs",
+  "version": "1.0.0",
+  "description": "Parse and get the /etc/lsb-release to JSON in a convenient manner. Useful to get your Linux distribution version",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinlevesque/lsb-release-fs.git"
+  },
+  "keywords": [
+    "linux",
+    "version",
+    "lsb-release"
+  ],
+  "author": "Martin Levesque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinlevesque/lsb-release-fs/issues"
+  },
+  "homepage": "https://github.com/martinlevesque/lsb-release-fs#readme",
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.4.1",
+    "mock-fs": "^4.3.0"
+  }
+}
