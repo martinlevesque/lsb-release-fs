@@ -1,8 +1,8 @@
 # lsb-release-fs
 
-[![Build status](https://travis-ci.org/martinlevesque/websocket-stats.svg?branch=master)](https://travis-ci.org/martinlevesque/websocket-stats)
+[![Build status](https://travis-ci.org/martinlevesque/websocket-stats.svg?branch=master)](https://travis-ci.org/martinlevesque/lsb-release-fs)
 
-Parse and get the /etc/lsb-release to JSON in a convenient manner. Useful to get your Linux version (Ubuntu, Debian, etc.).
+Parse and get the /etc/lsb-release to JSON in a convenient manner. Useful to get your Linux distribution version (Ubuntu, Debian, etc.).
 
 ## Installation
 

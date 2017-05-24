@@ -9,7 +9,7 @@ module.exports = function () {
     const relContent = fs.readFileSync("/etc/lsb-release").toString();
 
     if ( ! relContent) {
-      return undefined;
+      return {};
     }
 
     const lines = relContent.split(/\r?\n/);
