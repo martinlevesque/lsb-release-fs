@@ -1,6 +1,6 @@
 {
   "name": "lsb-release-fs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse and get the /etc/lsb-release to JSON in a convenient manner. Useful to get your Linux distribution version",
   "main": "index.js",
   "scripts": {
